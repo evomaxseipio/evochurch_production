@@ -1,0 +1,27 @@
+{
+    "appTitle": "Evo Church Admin",
+    "dashboard": "Dashboard",
+    "members": "Members",
+    "services": "Services",
+    "events": "Events",
+    "finances": "Finances",
+
+    "contributions": "Contributions",
+    "contributionsList": "Contributions List",
+    "funds": "Funds",
+    "paymentMethods": "Payment Methods",
+    "expenses": "Expenses",
+
+    "expenseName": "Expense Name",
+    "expenseCategory": "Expense Category",
+    "expenseDescription": "Expense Description",
+    "expenseIsActive": "Expense Status",
+    "expenseCreate": "Create Expense",
+    "expenseEdit": "Edit Expense",
+    "expenseDelete": "Delete Expense"
+
+    
+
+    
+    
+}
